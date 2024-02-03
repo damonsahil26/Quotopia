@@ -13,6 +13,9 @@ namespace Quotopia
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("AmaticSC-Bold.ttf", "AmaticBold");
+                    fonts.AddFont("AmaticSC-Regular.ttf", "AmaticRegular");
+                    fonts.AddFont("Annie-Regular.ttf", "AnnieRegular");
                 });
 
 #if DEBUG
