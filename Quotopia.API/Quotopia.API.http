@@ -1,0 +1,6 @@
+@Quotopia.API_HostAddress = http://localhost:5274
+
+GET {{Quotopia.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
